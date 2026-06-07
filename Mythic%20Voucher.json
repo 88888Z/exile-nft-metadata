@@ -1,0 +1,9 @@
+{
+  "name": "Mythic Voucher",
+  "description": "EXILE voucher redeemable for 500000 tokens. Burn this NFT to claim your reward.",
+  "image": "https://placeholder.com/exile-voucher.png",
+  "attributes": [
+    { "trait_type": "Type ID", "value": 4 },
+    { "trait_type": "Reward", "value": "500000 tokens" }
+  ]
+}

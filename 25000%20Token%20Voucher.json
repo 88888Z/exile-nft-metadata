@@ -1,0 +1,9 @@
+{
+  "name": "25000 Token Voucher",
+  "description": "EXILE voucher redeemable for 25000 tokens. Burn this NFT to claim your reward.",
+  "image": "https://placeholder.com/exile-voucher.png",
+  "attributes": [
+    { "trait_type": "Type ID", "value": 2 },
+    { "trait_type": "Reward", "value": "25000 tokens" }
+  ]
+}
